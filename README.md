@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Okello John Silas</h1>
-<h3 align="center">Passionate about software and interactions between software and actors.</h3>
+<h3 align="left">Passionate about software and interactions between software and actors.</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/johnsilasokello" target="_blank">
     <img src="https://img.shields.io/twitter/follow/johnsilasokello?logo=twitter&style=for-the-badge" alt="johnsilasokello" />
   </a>
 </p>
 
-<p align="center">👨‍💻 All of my projects are available at <a href="https://okellojohnsilas.com" target="_blank">okellojohnsilas.com</a></p>
+<p align="left">👨‍💻 All of my projects are available at <a href="https://okellojohnsilas.com" target="_blank">okellojohnsilas.com</a></p>
 
-<p align="center">📝 I regularly write articles on <a href="https://okellojohnsilas.com" target="_blank">okellojohnsilas.com</a></p>
+<p align="left">📝 I regularly write articles on <a href="https://okellojohnsilas.com" target="_blank">okellojohnsilas.com</a></p>
 
-<p align="center">📫 How to reach me: <a href="mailto:johnsilasokello49@gmail.com">johnsilasokello49@gmail.com</a></p>
+<p align="left">📫 How to reach me: <a href="mailto:johnsilasokello49@gmail.com">johnsilasokello49@gmail.com</a></p>
 
-<p align="center">📄 Know about my experiences at <a href="https://okellojohnsilas.com" target="_blank">okellojohnsilas.com</a></p>
+<p align="left">📄 Know about my experiences at <a href="https://okellojohnsilas.com" target="_blank">okellojohnsilas.com</a></p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/johnsilasokello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnsilasokello" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/okello-john-silas-07829416b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okello-john-silas-07829416b" height="30" width="40" /></a>
