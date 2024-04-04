@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p align="left">👨‍💻 All of my projects are available at <a href="https://okellojohnsilas.com" target="_blank">okellojohnsilas.com</a></p>
+<p align="left">👨‍💻 All of my projects are available at <a href="https://okellojohnsilas.com" target="_blank">okellojohnsilas.com</a> but am currently working on  <a href="[https://okellojohnsilas.com](https://github.com/okellojohnsilas/quotable)" target="_blank">Quotable</a></p>
 
 <p align="left">📝 I regularly write articles on <a href="https://okellojohnsilas.com" target="_blank">okellojohnsilas.com</a></p>
 
